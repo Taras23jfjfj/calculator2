@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    background: beige;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+.Pryvat1 {
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.CAD {
+    margin-left: 290px;
+    margin-top: -240px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+.CAI {
+    height: 225px;
+    width: 225px;
+}
+
+.monod {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 530px;
+    margin-top: -250px;
+    
+}
+
+.monoi{
+   height: 225px;
+    width: 225px;
+}
+
+.oshchadd{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 770px;
+    margin-top: -248px;
+   
+}
+
+.oshchadi{
+    height: 225px;
+    width: 225px;
+}
+
+.PUMBD {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 1010px;
+    margin-top: -248px;
+}
+
+.PUMBD {
+    height: 225px;
+    width: 225px;
+}
+
+.A-BankD{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 1280px;
+    margin-top: -225px;
+
+}
+
+.A-banki {
+    height: 225px;
+    width: 225px;
+}
+
+.RID {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 770px;
+}
+
+.RII{
+    height: 225px;
+    width: 225px;
+}
+
+.urksibd {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 530px;
+    margin-top: -250px;
+    
+}
+.urksii {
+    height: 225px;
+    width: 225px;
+}
